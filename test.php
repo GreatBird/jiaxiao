@@ -1,0 +1,1 @@
+<a href="wxpay/index.php?id=1">点击支付</a>
